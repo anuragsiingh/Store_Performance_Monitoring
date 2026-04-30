@@ -73,4 +73,4 @@ uvicorn main:app --reload
 http://127.0.0.1:8000/docs
 
 
-#### Author: Abhijeet Sachan
+#### Author: Anurag Pawar
